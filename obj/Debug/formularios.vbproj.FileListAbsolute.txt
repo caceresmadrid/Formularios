@@ -1,0 +1,12 @@
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\obj\Debug\formularios.vbprojAssemblyReference.cache
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\obj\Debug\formularios.Form1.resources
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\obj\Debug\formularios.Resources.resources
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\obj\Debug\formularios.vbproj.GenerateResource.cache
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\obj\Debug\formularios.vbproj.CoreCompileInputs.cache
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\bin\Debug\formularios.exe.config
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\bin\Debug\formularios.exe
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\bin\Debug\formularios.pdb
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\bin\Debug\formularios.xml
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\obj\Debug\formularios.exe
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\obj\Debug\formularios.xml
+C:\Users\CaceresMadrid\Source\Repos\formularios\formularios\obj\Debug\formularios.pdb
